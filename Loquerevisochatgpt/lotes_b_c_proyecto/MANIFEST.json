@@ -1,0 +1,49 @@
+{
+  "source_markdowns": 34,
+  "generated_files": 505,
+  "unique_generated_files": 505,
+  "sources": [
+    "Lote_C_01_Currency.md",
+    "Lote_C_02_PaymentStatus.md",
+    "Lote_C_03_PaymentMethod.md",
+    "Lote_C_04_Payment.md",
+    "Lote_C_05_RefundStatus.md",
+    "Lote_C_06_Refund.md",
+    "Lote_C_07_TicketStatus.md",
+    "Lote_C_08_Ticket.md",
+    "Lote_C_09_BaggageAllowance.md",
+    "Lote_C_10_BaggageType.md",
+    "Lote_C_11_TicketBaggage.md",
+    "Lote_C_12_CheckInStatus.md",
+    "Lote_C_13_CheckIn.md",
+    "Lote_C_14_BoardingPass.md",
+    "Lote_C_15_LoyaltyProgram.md",
+    "Lote_C_16_LoyaltyTier.md",
+    "Lote_C_17_LoyaltyAccount.md",
+    "Lote_C_18_LoyaltyTransaction.md",
+    "Lote_B_08_Customer.md",
+    "Lote_B_09_ReservationStatus.md",
+    "Lote_B_10_Reservation.md",
+    "Lote_B_11_ReservationDetail.md",
+    "Lote_B_12_PassengerDiscount.md",
+    "Lote_B_13_DelayReason.md",
+    "Lote_B_14_FlightDelay.md",
+    "Lote_B_15_CancellationReason.md",
+    "Lote_B_16_FlightCancellation.md",
+    "Lote_B_01_BaseFlight.md",
+    "Lote_B_02_RouteSchedule.md",
+    "Lote_B_03_ScheduledFlight.md",
+    "Lote_B_04_FlightCrew.md",
+    "Lote_B_05_SeatStatus.md",
+    "Lote_B_06_SeatMap.md",
+    "Lote_B_07_FlightSeat.md"
+  ],
+  "patched_for": [
+    "EF Core 8",
+    "Pomelo MySQL 8",
+    "timestamp default compatibility"
+  ],
+  "added_files": [
+    "README_CORRECCIONES.md"
+  ]
+}
